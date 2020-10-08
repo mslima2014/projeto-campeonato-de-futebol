@@ -30,11 +30,9 @@
 
 <img src="https://i.ibb.co/djQDdt7/2-Testes-Times-2.png" alt="2-Testes-Times-2" border="0">
 
-
 <li> Obter Jogos </li>
 <img src="https://i.ibb.co/4PCkhLC/6-Jogo-Encerrado-Time-1-x-Time-2-p1.png" alt="6-Jogo-Encerrado-Time-1-x-Time-2-p1" border="0">
 <img src="https://i.ibb.co/yn1WTwY/6-Jogo-Encerrado-Time-1-x-Time-2-p2.png" alt="6-Jogo-Encerrado-Time-1-x-Time-2-p2" border="0">
-
 
 <h2> Respostas Finais - API </h2>
 
@@ -46,5 +44,3 @@
 
 <li> Informações do Time por ID </li>
 <img src="https://i.ibb.co/bRCgyRv/5-Time-por-ID.png" alt="5-Time-por-ID" border="0">
-
-
