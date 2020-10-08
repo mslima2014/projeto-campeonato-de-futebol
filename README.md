@@ -21,6 +21,10 @@
 <li> Java </li>
 <li> HTML </li>
 
+<h2> Banco de Dados </h2>
+<li> Instalar DBeaver - https://dbeaver.io/download/</li>
+<li> Versão Community Edition (64 or 32 bits). Depende do sistema operacional. </li>
+
 <h2> Testes </h2>
 <li> Instalar PostMan - https://www.postman.com/downloads/ </li>
 <img src="https://i.ibb.co/dDnvgYx/4-Testes-de-requisi-es-GET-SET-e-Delete-Postman.png" alt="4-Testes-de-requisi-es-GET-SET-e-Delete-Postman" border="0">
