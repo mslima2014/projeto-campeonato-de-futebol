@@ -23,6 +23,8 @@
 
 <h2> Banco de Dados </h2>
 <li> Instalar DBeaver - https://dbeaver.io/download/</li>
+<img src="https://i.ibb.co/dMXMCCB/8-Banco-de-Dados-DBeaver.png" alt="8-Banco-de-Dados-DBeaver" border="0">
+
 <li> Versão Community Edition (64 or 32 bits). Depende do sistema operacional. </li>
 
 <h2> Testes </h2>
